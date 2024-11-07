@@ -42,7 +42,7 @@ Add the library as a dependency to your project:
 ```
 ##### Gradle
 ```groovy
-compile 'dev.dirs:directories:26'
+implementation("dev.dirs:directories:26")
 ```
 
 ##### SBT
